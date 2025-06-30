@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pkl
+
+# Virtual environment
+venv/
+
+# Streamlit and system files
+*.DS_Store
+model/
+logs/
