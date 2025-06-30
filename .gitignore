@@ -11,3 +11,7 @@ venv/
 *.DS_Store
 model/
 logs/
+
+#large files(please use your own datasets)
+data/
+model/
